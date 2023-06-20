@@ -30,11 +30,11 @@
         In 2012, he was one of the recipients of the Millennium Technology Prize.</p>
         <h2>Resources</h2>
         <p>Learn more about Linus Torvalds and his work:</p>
-        <a href="https://www.thefamouspeople.com/profiles/linus-torvalds-3972.php">COMPLETE DETAIL</a><br>
-        <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">WIKIPEDIA</a><br>
-        <a href="https://www.linkedin.com/in/linustorvalds/">LINKEDIN PROFILE</a><br>
-        <a href="https://lemelson.mit.edu/resources/linus-torvalds">Lemeson web</a><br>
-        <a href="https://en.wikiquote.org/wiki/Linus_Torvalds">WIKI</a>
+        <a target="_blank" href="https://www.thefamouspeople.com/profiles/linus-torvalds-3972.php">COMPLETE DETAIL</a><br>
+        <a target="_blank" href="https://en.wikipedia.org/wiki/Linus_Torvalds">WIKIPEDIA</a><br>
+        <a target="_blank" href="https://www.linkedin.com/in/linustorvalds/">LINKEDIN PROFILE</a><br>
+        <a target="_blank" href="https://lemelson.mit.edu/resources/linus-torvalds">Lemeson web</a><br>
+        <a target="_blank" href="https://en.wikiquote.org/wiki/Linus_Torvalds">WIKI</a>
     </div>
 
 </body>
